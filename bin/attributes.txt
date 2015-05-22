@@ -1,0 +1,12 @@
+"First Name" -> <span class="given-name">(.+?)</span>
+"Last Name" -> <span class="family-name">(.+?)</span>
+"Current Company" -> <ul class="current">(.+?)</ul>
+"Current Position" -> <ul class="current">(.+?)</ul>
+"More Current Company" -> <div class="showhide-block" id="morecurr"><ul class="current">(.+?)</ul>
+"More Current Position" -> <div class="showhide-block" id="morecurr"><ul class="current">(.+?)</ul>
+"IIT Alumni" -> <dd class="summary-education" style="display:block">(.+?)</dd>
+"Connections" -> <dd class="overview-connections"><p><strong>(.+?)</strong>
+"Profile Picture" -> id="profile-picture"><img src="(.+?)" class="photo"
+"Degree" -> <span class="degree">(.+?)</span>
+"Major" -> <span class="major">(.+?)</span></h4><p class="
+"Year" -> <abbr class="dtend" title="(.+?)">
